@@ -28,8 +28,8 @@ The website was culled from here (http://91p.co.uk/) i checeked the website and 
 
 
 ### Links
-- Solution: https://github.com/devsilva/kodenew5/
-- Live Site URL:https://devsilva.github.io/kodenew5/index.html
+- Solution: https://github.com/devsilvar/kodenew5/
+- Live Site URL:https://devsilvar.github.io/kodenew5/index.html
 
 
 
